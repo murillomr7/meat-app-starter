@@ -7,7 +7,6 @@ import {Observable} from "rxjs/Observable";
 import  'rxjs/add/operator/map'
 import 'rxjs/add/operator/catch'
 import {ErrorHandler} from '../app.error-handler'
-//import {errorHandler} from "@angular/platform-browser/src/browser";
 
 @Injectable()
 export class RestaurantService {
